@@ -1,5 +1,5 @@
-# ballout
-Ballout game
+# Ballout game
+![alt text](./screenshot.png "Screenshot")
 
 ## Control keys and mouse action
 
